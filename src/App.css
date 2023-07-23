@@ -1,0 +1,10 @@
+body {
+  background: #1F1A2D;
+}
+
+.section1 {
+  background: url(https://avatars.mds.yandex.net/i?id=b0d38c16bf71048db1312c54fe858d5e2c99ea13-9185064-images-thumbs&n=13);
+  width: 400px;
+  height: 310px;
+  position: relative;
+}
